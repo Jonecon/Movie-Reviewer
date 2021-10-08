@@ -1,0 +1,23 @@
+{	"gname":"Horror", "genredesc":"Story that creates feelings of fear, dread, repulsion, and terror"	}
+
+{	"gname":"Action", "genredesc":"Exactly what it sounds like"	}
+
+{	"gname":"Comedy", "genredesc":"Story that makes you laugh"	}
+
+{	"gname":"Romance", "genredesc":"Story about two people who are inlove with each other"	}
+
+{	"gname":"Documentary", "genredesc":"A non-fiction movie that documents or captures reality in some way"	}
+
+{	"gname":"Drama", "genredesc":"A white girl movie"	}
+
+{	"gname":"Science Fiction", "genredesc":"Speculative fiction that typically deals with imaginative and futuristic concepts"	}
+
+{	"gname":"Family", "genredesc":"Family friendly movies"	}
+
+{	"gname":"Fantasy", "genredesc":"A speculative fiction set in a fictional universe, often inspired by real world myth and folklore."	}
+
+{	"gname":"Thriller", "genredesc":"Story that creates feelings of suspense, excitement, surprise, anticipation and anxiety."	}
+
+{	"gname":"Animation", "genredesc":"A movie that uses a method in which figures are manipulated to appear as moving images."	}
+
+{	"gname":"Adventure", "genredesc":"A movie that where the protagonist goes on an epic journey, either personally or geographically. Often the protagonist has a mission and faces many obstacles in his way."	}

@@ -1,0 +1,39 @@
+{    
+	"title":"Star Wars",    
+	"year":1977,    
+	"director":"George Lucas",    
+	"genre":"fantasy",    
+	"actor":	[	
+					{"name":"Mark Hamill"}, 
+					{"name":"Carrie Fisher"}, 
+					{"name":"Harrison Ford"}
+				]
+}
+
+{
+	"email":"meecah.mec@gmail.com",
+	"password":"imPreti",
+	"movies":	[
+					{
+						"title":"",
+						"summary":"",
+						"releasedate":"",
+						"movieduration":"",
+						"imagepath":"",
+						"genre":	[
+										{"name":"", "genredesc":""},
+										{"name":"", "genredesc":""},
+										{"name":"", "genredesc":""}
+									],
+						"crew":		[
+										{
+											"contactnum":"",
+											"firstname":"",
+											"lastname":"",
+											"crewtype":"",
+											"crewtypedesc":"",
+										}
+									]
+					}
+				]
+}
